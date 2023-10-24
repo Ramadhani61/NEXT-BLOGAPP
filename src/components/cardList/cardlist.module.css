@@ -1,0 +1,9 @@
+.container {
+  flex: 5;
+}
+
+.title {
+  font-weight: 600;
+  margin: 40px 0px;
+  font-size: 20px;
+}
