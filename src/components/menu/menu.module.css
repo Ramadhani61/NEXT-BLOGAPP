@@ -84,3 +84,9 @@
   width: max-content;
   background-color: #ff7887;
 }
+
+@media screen and (max-width: 1024px) {
+  .container {
+    display: none;
+  }
+}

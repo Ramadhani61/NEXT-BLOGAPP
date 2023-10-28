@@ -30,7 +30,7 @@ const Navbar = () => {
             height={24}
           />
         </div>
-        <div className={styles.logo}>Waka</div>
+        <div className={styles.logo}>Blogs</div>
         <div className={styles.links}>
           <ThemeToogle />
           <Link href={"/"} className={styles.link}>
